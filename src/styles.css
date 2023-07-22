@@ -74,3 +74,8 @@ li {
   padding: 5px 5px;
   border-radius: 10px;
 }
+
+.github-link {
+  text-align: left;
+  margin-left: 260px;
+}
